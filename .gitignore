@@ -1,0 +1,15 @@
+# Add any directories, files, or patterns you don't want to be tracked by version control
+/node_modules
+/android/app/build
+/android/.gradle
+yarn.lock
+/ios/Pods/
+/ios/Podfile.lock
+/ios/.DS_Store
+.DS_Store
+
+android/.idea
+android/local.properties
+android/build
+android/android.iml
+ios/build/
